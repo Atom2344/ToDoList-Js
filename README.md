@@ -20,3 +20,4 @@ JavaScriptで作成したタイマー付ToDoリストです。
 - 1行ずつタイマーやチェックボックスを独立して作った点
 
 ##公開URL
+https://atom2344.github.io/ToDoList-Js/
